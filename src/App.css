@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Outfit:wght@400;700&family=Viga&display=swap');
+*{
+      font-family: 'Almarai', sans-serif;
+}
+
+
+.tr{
+  animation: bb 5s linear infinite ;
+}
+
+@keyframes bb {
+from {
+    background-position: 0% center ;
+  }
+
+  to{
+    background-position: -200%  center;
+  }
+}
+
